@@ -5,7 +5,7 @@ public class DemoE1 {
 		System.out.println("this is java script");
 		
 		System.out.println(" we are practicing git hub");
-		
+		System.out.println(" we  are in a group study");
 		System.out.println("aumi");
 	}
 }
